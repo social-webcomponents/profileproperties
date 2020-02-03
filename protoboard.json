@@ -1,0 +1,13 @@
+{
+  "browserify": {
+    "dist/browserified.js": "./index.js"
+  },
+  "dependencies": {
+    "js": [
+      "allex:environment:lib",
+      "allex:app:lib",
+      "allex:templateslite:lib",
+      "allex:htmltemplates:lib"
+    ]
+  }
+}

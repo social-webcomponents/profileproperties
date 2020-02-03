@@ -1,0 +1,27 @@
+{
+  "name": "social_profilepropertieswebcomponent",
+  "version": "1.0.0",
+  "description": "AllexJS web component module for handling social user profile parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/social-webcomponents/profileproperties.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "social",
+    "profile",
+    "parameters",
+    "web",
+    "component"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/social-webcomponents/profileproperties/issues"
+  },
+  "homepage": "https://github.com/social-webcomponents/profileproperties#readme"
+}
